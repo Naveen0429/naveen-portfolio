@@ -35,7 +35,7 @@ const Home = () => {
             </Link>
             <a
               className="group text-white w-fit px-6 py-3 my-2 ml-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
-              href="https://drive.google.com/file/d/1XIz23PtwRv5xVoQfi_1uqNqhdaua3mdM/view?usp=share_link"
+              href="https://drive.google.com/file/d/1BbsVn9HXEdSkQ52quU-I8rtW2Np4CrOp/view?usp=share_link"
               target="_blank"
               rel="noreferrer"
             >

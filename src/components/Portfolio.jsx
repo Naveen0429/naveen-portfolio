@@ -1,8 +1,8 @@
 import React from "react";
-import rental from "../assets/portfolio/rental.jpg";
-import dress from "../assets/portfolio/dress.jpg";
-import chat from "../assets/portfolio/chat.jpg";
-import blog from "../assets/portfolio/blog.jpg";
+import Todo from "../assets/portfolio/todo.jpg";
+import Ecommerce from "../assets/portfolio/ecommerce.jpg";
+import chat from "../assets/portfolio/chat1.png";
+import zen from "../assets/portfolio/zen1.png";
 import { MdLaunch } from "react-icons/md";
 
 
@@ -19,27 +19,27 @@ const Portfolio = () => {
     {
       id: 2,
       src: chat,
-      name:"Chat app",
-      link:"https://umoja-mu.vercel.app/",
-      client:"https://github.com/Abhinav80555/chat-frontend",
-      server:"https://github.com/Abhinav80555/chat-backend"
+      name:"Chat application",
+      link:"https://resplendent-croissant-72f9d0.netlify.app",
+      client:"https://github.com/Naveen0429/CHAT-APPLICATION-FRONTEND.git",
+      server:"https://github.com/Naveen0429/CHAT-APPLICATION-BACKEND.git"
 
     },
     {
       id: 3,
-      src: dress,
-      name:"Women Closet",
-      link:"https://zippy-kitten-4cb4a0.netlify.app/",
-      client:"https://github.com/Abhinav80555/dress-suggestion-frontend",
-      server:"https://github.com/Abhinav80555/dress-suggestion-backend"
+      src: Ecommerce,
+      name:"digital hub gadgets",
+      link:"https://funny-granita-733645.netlify.app/",
+      client:"https://github.com/Naveen0429/DIGITAL-HUB-FRONTEND.git",
+      server:"https://github.com/Naveen0429/DIGITAL-HUB-BACKEND.git"
     },
     {
       id: 4,
-      src: blog,
-      name:"Freelance app",
-      link:"https://frelanc.netlify.app/",
-      client:"https://github.com/Abhinav80555/freelancing-frontend",
-      server:"https://github.com/Abhinav80555/freelancing-backend"
+      src: zen,
+      name:"Zen student dashboard",
+      link:"https://extraordinary-twilight-f742e1.netlify.app/login",
+      client:"https://github.com/Naveen0429/zen--frontend.git",
+      server:"https://github.com/Naveen0429/zen--backend.git"
 
     }
   ];
