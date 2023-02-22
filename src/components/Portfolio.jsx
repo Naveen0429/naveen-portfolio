@@ -38,8 +38,8 @@ const Portfolio = () => {
       src: zen,
       name:"Zen student dashboard",
       link:"https://extraordinary-twilight-f742e1.netlify.app/login",
-      client:"https://github.com/Naveen0429/zen--frontend.git",
-      server:"https://github.com/Naveen0429/zen--backend.git"
+      client:"https://github.com/Naveen0429/zen--frontend",
+      server:"https://github.com/Naveen0429/zen--backend"
 
     }
   ];
