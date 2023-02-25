@@ -12,15 +12,15 @@ const Portfolio = () => {
       id: 1,
       src: Todo ,
       name:"Todo list app",
-      link:"https://remarkable-crostata-bf2b54.netlify.app/",
-      client:"https://github.com/Naveen0429/fullstack-todo-app-yt--frontend.git",
-      server:"https://github.com/Naveen0429/--fullstack-todo-app--backend.git"
+      link:"https://remarkable-crostata-bf2b54.netlify.app",
+      client:"https://github.com/Naveen0429/TODO-APP-FRONTEND.git",
+      server:"https://github.com/Naveen0429/TODO-APP-BACKEND.git"
     },
     {
       id: 2,
       src: chat,
       name:"Chat application",
-      link:"https://resplendent-croissant-72f9d0.netlify.app",
+      link:"https://resplendent-croissant-72f9d0.netlify.app/login",
       client:"https://github.com/Naveen0429/CHAT-APPLICATION-FRONTEND.git",
       server:"https://github.com/Naveen0429/CHAT-APPLICATION-BACKEND.git"
 
@@ -29,7 +29,7 @@ const Portfolio = () => {
       id: 3,
       src: Ecommerce,
       name:"digital hub gadgets",
-      link:"https://funny-granita-733645.netlify.app/",
+      link:"https://funny-granita-733645.netlify.app",
       client:"https://github.com/Naveen0429/DIGITAL-HUB-FRONTEND.git",
       server:"https://github.com/Naveen0429/DIGITAL-HUB-BACKEND.git"
     },
@@ -37,7 +37,7 @@ const Portfolio = () => {
       id: 4,
       src: zen,
       name:"Zen student dashboard",
-      link:"https://extraordinary-twilight-f742e1.netlify.app/",
+      link:"https://extraordinary-twilight-f742e1.netlify.app",
       client:"https://github.com/Naveen0429/zen--frontend.git",
       server:"https://github.com/Naveen0429/zen--backend.git"
 
