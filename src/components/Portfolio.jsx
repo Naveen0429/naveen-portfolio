@@ -2,7 +2,7 @@ import React from "react";
 import Todo from "../assets/portfolio/todo.jpg";
 import Ecommerce from "../assets/portfolio/ecommerce.jpg";
 import chat from "../assets/portfolio/chat1.png";
-import zen from "../assets/portfolio/zen1.png";
+import zen from "../assets/portfolio/zenok.jpg";
 import { MdLaunch } from "react-icons/md";
 
 
